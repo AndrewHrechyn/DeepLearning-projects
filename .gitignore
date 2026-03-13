@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.idea
+
+#Projects data files
+people_counter/data
+
 # C extensions
 *.so
 
